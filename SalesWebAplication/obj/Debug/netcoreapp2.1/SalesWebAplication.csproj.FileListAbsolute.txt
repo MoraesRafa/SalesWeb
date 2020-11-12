@@ -31,3 +31,4 @@ C:\Users\Rafael\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\net
 C:\Users\Rafael\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp2.1\SalesWebAplication.dll
 C:\Users\Rafael\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp2.1\SalesWebAplication.pdb
 C:\Users\Rafael\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp2.1\SalesWebAplication.csproj.CopyComplete
+C:\Users\Rafael\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp2.1\SalesWebAplication.csprojAssemblyReference.cache
